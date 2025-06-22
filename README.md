@@ -32,16 +32,16 @@ This project implements and verifies a **Serial Peripheral Interface (SPI)** Mas
 
 ## ---
 
-## 🚀 Features
+##  Features
 
-- ✔️ SPI Master-Slave full-duplex data communication
-- ✔️ Modular UVM-style testbench (lightweight, no UVM library)
-- ✔️ Self-checking scoreboard for data validation
-- ✔️ Fully synthesizable and testable RTL
+-  SPI Master-Slave full-duplex data communication
+-  Modular UVM-style testbench (lightweight, no UVM library)
+-  Self-checking scoreboard for data validation
+-  Fully synthesizable and testable RTL
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - **Vivado (Xilinx)**
 - **SystemVerilog (IEEE 1800)**
@@ -49,9 +49,9 @@ This project implements and verifies a **Serial Peripheral Interface (SPI)** Mas
 
 ---
 
-## ▶️ Running the Simulation in Vivado
+##  Running the Simulation in Vivado
 
-> ⚠️ **Follow this exactly to avoid simulation errors.**
+> ⚠ **Follow this exactly to avoid simulation errors.**
 
 ### Step-by-Step Vivado Setup
 
