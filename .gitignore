@@ -1,0 +1,21 @@
+# Vivado junk
+*.jou
+*.log
+*.str
+*.wdb
+*.pb
+*.backup*
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/
+*.webtalk/
+*.Xil/
+
+# System files
+*.DS_Store
+*.vscode/
+*.tmp
+*.swp
